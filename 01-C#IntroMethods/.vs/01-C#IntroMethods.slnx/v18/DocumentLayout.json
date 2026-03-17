@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\01-C#IntroMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A14210C7-BFC8-416B-85AD-CDB1984DA049}|01-C#IntroMethods\\01-C#IntroMethods.csproj|c:\\users\\asus\\source\\repos\\01-c#intromethods\\01-c#intromethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A14210C7-BFC8-416B-85AD-CDB1984DA049}|01-C#IntroMethods\\01-C#IntroMethods.csproj|solutionrelative:01-c#intromethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DA7F9AF-3B7A-2054-9386-52174908912C}|01-C#IntroMethods\\01-C#IntroMethods.csproj|c:\\users\\asus\\source\\repos\\01-c#intromethods\\01-c#intromethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA7F9AF-3B7A-2054-9386-52174908912C}|01-C#IntroMethods\\01-C#IntroMethods.csproj|solutionrelative:01-c#intromethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +28,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T16:04:19.661Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
