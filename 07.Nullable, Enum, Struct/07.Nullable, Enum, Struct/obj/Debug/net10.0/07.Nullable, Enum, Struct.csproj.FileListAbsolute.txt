@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\bin\Debug\net10.0\07.Nullable, Enum, Struct.exe
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\bin\Debug\net10.0\07.Nullable, Enum, Struct.deps.json
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\bin\Debug\net10.0\07.Nullable, Enum, Struct.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\bin\Debug\net10.0\07.Nullable, Enum, Struct.dll
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\bin\Debug\net10.0\07.Nullable, Enum, Struct.pdb
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.dll
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\refint\07.Nullable, Enum, Struct.dll
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.pdb
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\07.Nullable, Enum, Struct.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\APA202\07.Nullable, Enum, Struct\07.Nullable, Enum, Struct\obj\Debug\net10.0\ref\07.Nullable, Enum, Struct.dll
