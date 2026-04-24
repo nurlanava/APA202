@@ -1,0 +1,115 @@
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+
+.product-card {
+    border: none;
+    transition: transform 0.2s ease-in-out;
+}
+/* Şəkil qutusu üçün sabit ölçü və gizlətmə */
+/* Şəkil qutusunun miqyasını (aspect ratio) sabitləyirik */
+.product-image-wrapper {
+    position: relative;
+    width: 100%;
+    /* Geyim saytları üçün ideal nisbət 3/4-dür (uzunsov). Kvadrat istəyirsinizsə 1 / 1 yazın */
+    aspect-ratio: 3 / 4; 
+    background-color: #f4f5f7; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 0;
+}
+
+/* Şəkli həmin qutunun içinə proporsional yerləşdiririk */
+.product-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    /* Şəklin qutunu tam doldurması və kənarlarının eyni kəsilməsi üçün 'cover' istifadə edirik */
+    object-fit: cover; 
+    object-position: top; /* Şəklin yuxarı hissəsini (məsələn, modelin başını) mərkəzə alır */
+}
+
+.badge-sale {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #000;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 4px 8px;
+    letter-spacing: 1px;
+}
+
+.product-title {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+.product-rating {
+    color: #f39c12; 
+    font-size: 0.75rem;
+    margin-bottom: 0.25rem;
+}
+
+.product-rating .text-muted {
+    color: #dcdcdc !important; 
+}
+
+.product-price {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #000;
+}
+
+
+.top-bar {
+    font-size: 0.85rem;
+    color: #777;
+}
+
+.sort-select {
+    border: none;
+    font-weight: 600;
+    color: #000;
+    box-shadow: none !important;
+    padding-right: 20px;
+    cursor: pointer;
+    background-position: right 0 center;
+}
+
+
+.custom-pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    gap: 10px;
+}
+
+.page-link-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    color: #333;
+    text-decoration: none;
+    font-size: 0.9rem;
+    border-radius: 50%;
+}
+
+.page-link-item.active {
+    border: 1px solid #000;
+    font-weight: bold;
+}
+
+.page-link-item:hover:not(.active) {
+    background-color: #f8f9fa;
+}
