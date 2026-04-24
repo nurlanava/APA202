@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+
+.comparison-container {
+    max-width: 850px;
+    padding: 40px;
+}
+
+
+.row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+    gap: 40px;
+}
+
+
+.time-col {
+    flex: 1;
+    color: #2b71c6;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: left;
+}
+
+
+.text-col {
+    flex: 1.5;
+    text-align: justify;
+    color: #000000;
+}
+
+
+.serif-text {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.script-text {
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px; /* Script şriftləri adətən kiçik göründüyü üçün ölçüsü böyüdülüb */
+    line-height: 1.4;
+}

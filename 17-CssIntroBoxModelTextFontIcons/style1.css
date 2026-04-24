@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman", Times, serif; /* Şəkildəki şriftə bənzəməsi üçün serif istifadə olunub */
+    background-color: #ffffff; /* Ağ arxa plan */
+}
+
+/* Səhifəni ortalamaq və genişliyi tənzimləmək üçün əsas konteyner */
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+/* Əsas sehrin baş verdiyi yer: Arxa plan şəkli və kəsilməsi */
+.text-content {
+    /* "url" daxilinə mənzərə şəklinizin linkini yerləşdirin. Mən nümunəvi mənzərə linki əlavə etmişəm */
+    background-image: url("img.webp");
+    background-repeat: no-repeat; /* Şəklin təkrarlanmasının qarşısını alır */
+    background-position: top center; /* Şəkli yuxarıdan ortalayır */
+    
+    /* Ən vacib sətir: Şəklin enini 100%, hündürlüyünü isə 280px edirik ki, 
+       aşağıdakı mətn şəkilsiz (ağ) hissəyə düşsün */
+    background-size: 100% 280px; 
+    
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+/* Mətnin rəngi və forması */
+.text-content p {
+    color: #e5d852; /* Şəkildəki kimi sarımtıl rəng */
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0 40px 35px 40px; /* Paraqraflar arası və yanlardan boşluq */
+}
+
+/* Loqonu mərkəzləşdirmək və ölçüsünü təyin etmək */
+.logo-container {
+    margin-top: 70px; /* Mətndən bir az aşağıda yerləşdirmək üçün */
+}
+
+.logo-container img {
+    width: 180px; /* Loqonun böyüklüyü */
+}

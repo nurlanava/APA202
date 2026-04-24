@@ -1,0 +1,95 @@
+/* Google Fonts yüklənməsi */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Pinyon+Script&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: #f4efeb; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+
+
+.vintage-container {
+    width: 900px;
+    background-color: transparent;
+    text-align: center;
+    position: relative;
+    padding-top: 50px;
+    border: 1px solid rgba(0,0,0,0.05); 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.content {
+    padding: 40px;
+}
+
+/* THE yazısı */
+.the-text {
+    font-family: 'Cinzel', serif;
+    color: #b38836; 
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    display: block;
+    margin-bottom: -40px; 
+}
+
+
+.hamilton-text {
+    font-family: 'Pinyon Script', cursive;
+    color: #1c1c1c;
+    font-size: 150px;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+}
+
+
+.font-family-text {
+    font-family: 'Cinzel', serif;
+    color: #b38836;
+    font-size: 32px;
+    letter-spacing: 12px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+
+.features-text {
+    font-family: 'Cinzel', serif;
+    color: #1c1c1c;
+    font-size: 26px;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+}
+
+
+.crafted-text {
+    font-family: 'Pinyon Script', cursive;
+    color: #b38836;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+
+.bottom-bar {
+    background-color: #927b5e; 
+    color: #f4efeb;
+    padding: 20px;
+    font-family: 'Cinzel', serif;
+    font-size: 14px;
+    letter-spacing: 4px;
+    
+    box-shadow: inset 0 5px 10px rgba(0,0,0,0.15); 
+}
+}
